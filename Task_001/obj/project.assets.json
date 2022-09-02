@@ -2054,11 +2054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Home_EF_Core_Models\\Task_001.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Task_001\\Task_001.csproj",
       "projectName": "Task_001",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Home_EF_Core_Models\\Task_001.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Task_001\\Task_001.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Home_EF_Core_Models\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\EF Core\\Home_EF_Core_Models\\Task_001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
